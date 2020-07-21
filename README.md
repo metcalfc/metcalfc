@@ -19,6 +19,8 @@ My name is Chad Metcalf. 👨‍💻 I am an architect at [Docker](https://githu
 - 🏢 I'm on [LinkedIn](https://www.linkedin.com/in/chadmetcalf/).
 - 🐦 Find me on Twitter at [@metcalfc](https://twitter.com/metcalfc).
 
+🎨 by [Esther Saggese](https://www.fiverr.com/esthersaggese)
+
 <!--
 **metcalfc/metcalfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
