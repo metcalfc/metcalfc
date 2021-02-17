@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Chad Metcalf. 👨‍💻 I am an architect at [Docker](https://github.com/docker).
+My name is Chad Metcalf. 👨‍💻 I am an currently in between gigs.
 
 💬 Ask me about:
 
