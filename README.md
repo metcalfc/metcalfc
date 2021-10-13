@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Chad Metcalf. 👨‍💻 I am an currently in between gigs.
+My name is Chad Metcalf. 👨‍💻 I have been workin on open source projects for 20 years. I've been a developer, run infrastructure, loved build & release, and took a tour in sales. I've worked in five startups over the years (Arch Rock, Cloudera, WibiData, Puppet, and Docker).  Currently, I am advising startups at the beginning of their go to market journey. From technical sales, to OSS strategy, to succeeding in a competitive cloud world. If this sounds like it might be interesting to your startup I am happy to talk. Find me below.
 
 💬 Ask me about:
 
