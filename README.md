@@ -20,8 +20,8 @@ My name is Chad Metcalf. 👨‍💻 I have been workin on open source projects 
 
 ![3 drydockdev (1)](https://user-images.githubusercontent.com/31925/133863542-a3daf3e7-1077-42f6-997f-54d9d99a0d42.gif)
 
-📷 by [Danielle Leong](https://www.danielleleongphotography.com/)
-🎨 by [Esther Saggese](https://www.fiverr.com/esthersaggese)
+Headshot 📷 by [Danielle Leong](https://www.danielleleongphotography.com/)
+8bit graphics 🎨 by [Esther Saggese](https://www.fiverr.com/esthersaggese)
 
 <!--
 **metcalfc/metcalfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
