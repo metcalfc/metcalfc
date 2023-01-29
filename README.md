@@ -17,7 +17,7 @@ My name is Chad Metcalf. 👨‍💻 I have been workin on open source projects 
 
 - 🏢 I'm on [LinkedIn](https://www.linkedin.com/in/chadmetcalf/).
 - 🐦 Find me on Twitter at [@metcalfc](https://twitter.com/metcalfc).
-- 🐘 Find me on Mastodon [@metcalfc@hachyderm.io](https://hachyderm.io/@metcalfc")
+- 🐘 Find me on Mastodon [@metcalfc@hachyderm.io](https://hachyderm.io/@metcalfc)
 
 ![3 drydockdev (1)](https://user-images.githubusercontent.com/31925/133863542-a3daf3e7-1077-42f6-997f-54d9d99a0d42.gif)
 
